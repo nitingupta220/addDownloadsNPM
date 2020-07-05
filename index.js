@@ -13,7 +13,7 @@ console.log(
   chalk.yellow(
     figlet.textSync("Welcome to Fake NPM Downloader", {
       //   font: "Ghost",
-      horizontalLayout: "default",
+      horizontalLayout: "default", 
       verticalLayout: "full",
     })
   )
