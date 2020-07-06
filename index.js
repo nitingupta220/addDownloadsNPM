@@ -9,8 +9,6 @@ let downloads = 0;
 
 clear();
 
-
-
 console.log(
   chalk.yellow(
     figlet.textSync("Welcome to Fake NPM Downloader", {
