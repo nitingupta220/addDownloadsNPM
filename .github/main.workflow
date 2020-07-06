@@ -1,4 +1,3 @@
-
 workflow "Publish package" {
   on = "release"
   resolves = ["publish"]
